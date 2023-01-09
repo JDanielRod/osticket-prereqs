@@ -20,9 +20,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Azure Virtual Machine
+- Internet Information Services(IIS)
+- osTicket Installation Files
 - Item 4
 - Item 5
 
