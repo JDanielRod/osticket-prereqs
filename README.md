@@ -59,7 +59,7 @@ After applying the changes, we'll need to download a few things so OSticket can 
 </p>
 <br />
 
-Next, download the php-7.3.8 file. Extrace the files to the PHP folder we created earlier.
+Next, download the php-7.3.8 file. Extrace the files to the PHP folder we created earlier. After, download the VC_redist and mysql-5.5.62 files.
 <p>
 <img src="https://imgur.com/HqdONz9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
