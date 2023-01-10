@@ -51,9 +51,9 @@ Once connected to the VM, go to control panel--> uninstall or change a program--
 </p>
 <br />
 
-After applying the changes, we'll need to download a few things so OSticket can run on the VM. Click this link to download the necessary files: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 . First, download and install PHP Manager for IIS. Make sure to download these files through your VM and not on your own computer.
+After applying the changes, we'll need to download a few things so OSticket can run on the VM. Click this link to download the necessary files: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 . First, download and install PHP Manager for IIS and rewrite moduel. Make sure to download the files on the Google Drive through your VM and not on your own computer. After downloading, create the directory C:\PHP.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/otghrd5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
