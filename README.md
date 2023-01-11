@@ -104,7 +104,7 @@ After clicking, something like this should pop up. Some extensions will not be e
 </p>
 <br />
 
-After enabling those, refresh the osTicket site in the browser and notice the changes. In filer explorer, go to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename "ost-sampleconfig.php" to "ost-config.php"
+After enabling those, refresh the osTicket site in the browser and notice the changes. In filer explorer, go to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename "ost-sampleconfig.php" to "ost-config.php". After this, right-click on this file and disable inheritance. Then add permissions for everyone to have full control.
 <p>
  <img src="https://imgur.com/BzzEiCQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
@@ -114,11 +114,12 @@ After enabling those, refresh the osTicket site in the browser and notice the ch
 </p>
 <br />
 
+Once this done, go back to osTicket in the browser and begin setting it up. Create a username and password. Before filling out next section, download HeidiSQL from the installation files. Once installed, click new and type in the password you created when you downloaded mysql.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6n7XH6U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://imgur.com/zdUsilC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
