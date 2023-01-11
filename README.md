@@ -94,7 +94,7 @@ Next, download the OSticket file from the installation files. We're going to cop
 </p>
 <br />
 
-After clicking, something like this should pop up. Some extensions will not be enabled. 
+After clicking, something like this should pop up. Some extensions will not be enabled. Go back to IIS, then navigate to Sites-> Default-> osTicket, then double-click "PHP Manager".
 <p>
 <img src="https://imgur.com/L6fUR0E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
