@@ -94,10 +94,12 @@ Next, download the OSticket file from the installation files. We're going to cop
 </p>
 <br />
 
-After clicking, something like this should pop up. Some extensions will not be enabled. Go back to IIS, then navigate to Sites-> Default-> osTicket, then double-click "PHP Manager".
+After clicking, something like this should pop up. Some extensions will not be enabled. Go back to IIS, then navigate to Sites-> Default-> osTicket, then double-click "PHP Manager". Click "Enable or disable an extension". Enable: php_imap.dll, php_intl.dll, php_opcache.dll
+
 <p>
 <img src="https://imgur.com/L6fUR0E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://imgur.com/THNIgAd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
