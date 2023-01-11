@@ -123,9 +123,11 @@ Once this done, go back to osTicket in the browser and begin setting it up. Crea
 </p>
 <br />
 
+In HeidiSQL, right-click "unamed" and select create new-> database and then name it "osTicket". Go back to "Osticket in the browser, fill out Database settings then hit "install now". Congratulations! We've successfully installed osTicket!
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/h7UPRVV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://imgur.com/dB3xMFz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
